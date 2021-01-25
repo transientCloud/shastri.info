@@ -1,2 +1,0 @@
-# shastri.info
-Official website
